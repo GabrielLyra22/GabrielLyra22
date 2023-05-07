@@ -1,6 +1,6 @@
 Olá, meu nome é João Gabriel Lyra e sinta-se à vontade! :)
 
-- 🌱 Sou um programador fullstack, focando atualmente no aprendizado de back-end!
+- 🌱 Sou um programador fullstack, focando na carreira de desenvolvedor back-end!
 - 😄 Pronouns: ele/dele
 
 <div align="center">
