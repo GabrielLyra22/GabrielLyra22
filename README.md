@@ -1,12 +1,13 @@
 Olá, meu nome é João Gabriel Lyra e sinta-se à vontade! :)
 
-- 🌱 Sou um programador back-end!
+- 🌱 Sou um desenvolvedor back-end Node e Python!
+- 💕 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/gabriellyra22">
+  <a href="https://github.com/GabrielLyra22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLyra22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyra22&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLyra22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
