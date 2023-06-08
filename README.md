@@ -4,9 +4,6 @@ Olá, meu nome é João Gabriel Lyra e sinta-se à vontade! :)
 - 💕 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
 - 😄 Pronouns: ele/dele
 
-
-</a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabriellyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
   <img alt="Python SVG" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="JavaScript SVG" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
