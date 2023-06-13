@@ -1,8 +1,8 @@
-Olá, meu nome é João Gabriel Lyra e sinta-se à vontade! :)
+Olá, meu nome é João Gabriel Lyra, tenho 27 anos. Desde que conheci a programação no começo de 2021 foi amor a primeira vista. Naquela época eu cursava Engenharia de Materiais e não estava contente com o andamento da minha carreira, não me via feliz na área mas por sorte a minha paguei uma disciplina de programação e percebi que queria ser programador. Entrei em contato com uns amigos programadores pra entender melhor o mundo da programação e tive a certeza de que era o que eu queria pra minha vida. hehe :)
 
 - 🌱 Sou um desenvolvedor back-end Node e Python!
-- 💕 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
-- 😄 Pronouns: ele/dele
+- 📚 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
+- ⚽ Apaixonado por assistir um futebol de qualidade e jogar um futebol de não tão de qualidade assim. 🤣
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriellyra&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
