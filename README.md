@@ -4,7 +4,7 @@ Olá, meu nome é João Gabriel Lyra e sinta-se à vontade! :)
 - 💕 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
 - 😄 Pronouns: ele/dele
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriellyra&layout=donut&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriellyra&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img alt="Python SVG" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
