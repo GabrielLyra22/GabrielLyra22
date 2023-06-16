@@ -2,7 +2,7 @@ Olá, meu nome é João Gabriel Lyra, tenho 27 anos. Desde que conheci a program
 
 - 🌱 Sou um desenvolvedor back-end Node e Python!
 - 📚 Atualmente estou aperfeiçoando minhas habilidades em Java e Cloud!
-- ⚽ Apaixonado por assistir um futebol de qualidade e jogar um futebol de não tão de qualidade assim. 🤣
+- ⚽ Apaixonado por assistir um futebol de qualidade e jogar um futebol sem tanta qualidade. 🤣
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriellyra&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
