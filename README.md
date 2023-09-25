@@ -1,4 +1,4 @@
-Welcome! My name is João Gabriel Lyra, i'm a software engineer, passionate about software architecture, solving problems and cloud computing. 
+Welcome! My name is João Gabriel Lyra, i'm a full stack developer, passionate about software architecture, solving problems and cloud computing. 
 Here you can see my projects, hope you like it.
 
 I love watch CS (e-sports/esports in general) and soccer. I’m currently searching a job and working as a freelancer. If you would like to discuss these things, just add me on Linkedin. If you need more information or ask me anything feel free to contact.
